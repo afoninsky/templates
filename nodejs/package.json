@@ -1,0 +1,13 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "description": "Base template for nodejs project",
+  "author": "Andrey Afoninsky",
+  "license": "NONE",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.2"
+  }
+}
